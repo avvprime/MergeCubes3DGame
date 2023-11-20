@@ -31,7 +31,7 @@ export default class Game{
         FINISH: 10
     }
 
-    #currentLevel = 20;
+    #currentLevel = 14;
     #lastReachedLevel = 1;
     #totalLevels = 61;
 
