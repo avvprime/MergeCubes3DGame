@@ -6,3 +6,5 @@ If you open index.html file it will automatically loads and opens the level as c
 You can change levels by adjusting currentLevel parameter (in Game.js)
 
 I made for educational and commercial purposes both but not sure if I finish soon. So uploading here just in case.
+
+You need to run server in order to game work. 
